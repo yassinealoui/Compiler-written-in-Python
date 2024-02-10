@@ -1,0 +1,6 @@
+PRINT "inserer un numero"
+INPUT a
+
+IF a > 5 THEN
+PRINT "ce numero est superieur a 5"
+ENDIF
