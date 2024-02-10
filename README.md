@@ -5,10 +5,10 @@ Hey Compy Coders! 👋
 a basic Python compiler that transfrom "compy" code [costum language] to the "c" language
 
 #compy [costum language]
-##Language Tokens
+#Language Tokens
 ![tokens](https://github.com/yassinealoui/Python-Compiler/assets/81710553/05e73b56-c77c-4802-85ee-4de4be2a25dd)
 
-##Compiler's grammar
+#Compiler's grammar
 ![compiler grammar](https://github.com/yassinealoui/Python-Compiler/assets/81710553/0091d089-5c40-4d76-85db-8ea3d1510274)
 
 #DEMO 1: successful compilation 
