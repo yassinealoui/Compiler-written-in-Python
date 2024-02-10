@@ -1,4 +1,4 @@
-# Compy to C Compiler (Basic Python compiler)
+# Compy to C Compiler (Basic compiler written in Python)
 
 Hey Compy Coders! 👋
 
