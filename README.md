@@ -2,11 +2,11 @@
 
 A basic Python compiler that transforms "compy" code [custom language] to the "c" language.
 
-## Language Tokens
+## Language Tokens "Compy"[custom language]
 
 ![tokens](https://github.com/yassinealoui/Python-Compiler/assets/81710553/05e73b56-c77c-4802-85ee-4de4be2a25dd)
 
-## Compiler's Grammar
+## Compiler's Grammar "Compy"[custom language]
 
 ![compiler grammar](https://github.com/yassinealoui/Python-Compiler/assets/81710553/0091d089-5c40-4d76-85db-8ea3d1510274)
 
