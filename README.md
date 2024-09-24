@@ -1,4 +1,4 @@
-# Compy to C Compiler (Basic compiler written in Python)
+# Compy to  C Compiler (Basic compiler written in Python)
 
 A basic Python compiler that transforms "compy" code [custom language] to the "c" language.
 
